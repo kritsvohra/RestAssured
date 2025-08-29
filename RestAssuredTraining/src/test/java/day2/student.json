@@ -1,0 +1,94 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "John",
+      "location": "India",
+      "phone": "1234567890",
+      "courses": [
+        "Java",
+        "Selenium"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Kim",
+      "location": "US",
+      "phone": "4567890123",
+      "courses": [
+        "Python",
+        "Appium"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Smith",
+      "location": "Canada",
+      "phone": "1367893233",
+      "courses": [
+        "C#",
+        "RestAPI"
+      ]
+    },
+    {
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "phone": "123456",
+      "name": "Scott",
+      "location": "France",
+      "id": 5
+    },
+    {
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "phone": "123456",
+      "name": "Scott",
+      "location": "France",
+      "id": 6
+    },
+    {
+      "empty": false,
+      "mapType": "java.util.HashMap",
+      "id": 7
+    },
+    {
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "phone": "123456",
+      "name": "Scott",
+      "location": "France",
+      "id": 8
+    },
+    {
+      "name": "Scott",
+      "location": "France",
+      "phone": "123456",
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "id": 9
+    },
+    {
+      "empty": false,
+      "mapType": "java.util.HashMap",
+      "id": 10
+    },
+    {
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "phone": "123456",
+      "name": "Scott",
+      "location": "France",
+      "id": 11
+    }
+  ]
+}
