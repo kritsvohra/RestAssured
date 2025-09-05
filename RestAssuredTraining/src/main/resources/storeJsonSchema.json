@@ -1,0 +1,54 @@
+{
+  "title": "Generated schema for Root",
+  "type": "object",
+  "properties": {
+    "book": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "category": {
+            "type": "string"
+          },
+          "author": {
+            "type": "string"
+          },
+          "title": {
+            "type": "string"
+          },
+          "price": {
+            "type": "number"
+          },
+          "isbn": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "category",
+          "author",
+          "title",
+          "price"
+        ]
+      }
+    },
+    "bicycle": {
+      "type": "object",
+      "properties": {
+        "color": {
+          "type": "string"
+        },
+        "price": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "color",
+        "price"
+      ]
+    }
+  },
+  "required": [
+    "book",
+    "bicycle"
+  ]
+}
